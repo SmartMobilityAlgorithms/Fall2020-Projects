@@ -8,7 +8,6 @@
 [![Gitter](https://badges.gitter.im/SmartMobilityAlgorithms/community.svg)](https://gitter.im/SmartMobilityAlgorithms/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/SmartMobilityAlgorithms/Swarm-Intelligence-based-Algorithms/master)
 
-# Fall 2020 Projects
 This repo contains the project presented in Fall 2020 session.
 
 ---
