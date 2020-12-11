@@ -1,0 +1,19 @@
+{
+  "regions": [
+    {
+      "name": "ontario",
+      "south_latitude": "41.6761",
+      "west_longitude": "-97.9251",
+      "north_latitude": "56.5779",
+      "east_longitude": "-72.1607"
+    },
+    {
+      "name": "north-york",
+      "south_latitude": "43.6893",
+      "west_longitude": "-79.5595",
+      "north_latitude": "43.8155",
+      "east_longitude": "-79.3414"
+    }
+  ],
+  "data_collection_rate_in_minutes": 60
+}
