@@ -14,7 +14,7 @@ This repo contains the project presented in Fall 2020 session.
 ## Project List
 - Multi-criteria Optimal Routing :hourglass:
 - Route Planning For Cyclists :hourglass:
-- Emergency Dispatch and Routing :hourglass:
+- Emergency Dispatch and Routing :white_check_mark:
 - School Bus Routing Problem :hourglass:
 - Trip Itinerary Planning :hourglass:
 - Bio Inspired Optimization Framework for Ride Matching Problem :white_check_mark:
