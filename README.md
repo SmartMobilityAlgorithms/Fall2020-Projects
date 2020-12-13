@@ -17,6 +17,6 @@ This repo contains the project presented in Fall 2020 session.
 - Emergency Dispatch and Routing :hourglass:
 - School Bus Routing Problem :hourglass:
 - Trip Itinerary Planning :hourglass:
-- Bio Inspired Optimization Framework for Ride Matching Problem :hourglass:
+- Bio Inspired Optimization Framework for Ride Matching Problem :white_check_mark:
 - Smart Parking Planning :hourglass:
 - Optimizing charging scheduling of high use electric vehicles for greenhouse gas reduction :hourglass:
