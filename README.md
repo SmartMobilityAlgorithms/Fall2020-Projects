@@ -6,7 +6,7 @@
 [![GitHub issues](https://img.shields.io/github/issues/Naereen/StrapDown.js.svg)](https://github.com/SmartMobilityAlgorithms/Fall2020-Projects/issues) 
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://github.com/SmartMobilityAlgorithms/Fall2020-Projects/pulls)
 [![Gitter](https://badges.gitter.im/SmartMobilityAlgorithms/community.svg)](https://gitter.im/SmartMobilityAlgorithms/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/SmartMobilityAlgorithms/Swarm-Intelligence-based-Algorithms/master)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/SmartMobilityAlgorithms/Fall2020-Projects/master)
 
 This repo contains the project presented in Fall 2020 session.
 
