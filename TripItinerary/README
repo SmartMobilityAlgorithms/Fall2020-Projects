@@ -1,0 +1,28 @@
+
+The ProjectNoteBook is our python file and places.csv is the dataset.
+
+There are 6 parts in the notebook.
+
+1.Introduction
+
+2.Object Classes and Global Variables
+
+3.Dataset Illustration
+
+4.Helper Functions for Visualization
+
+5.Helper Functions for GA model
+
+6.Test & Visualize the Result
+
+The user can run the function by input 
+solution, fitnessByiteration = main_GA(days, maximum_time , places, start_point, chosen_cate)
+
+Explanaitions:
+days is an interger which represents how many days the user want to travel
+maximum_time is an interger which represents how many time want to spend on each day (in minute)
+places is a list of POIs which has already been compiled (contains 175 POIs in Toronto)
+start_point is hardcoded.
+chosen_cate is a list of categories which the user is interested in.
+the followings are all categories the user can select.
+(Sports, Museum, Arts, Nature_park, Gallery, Landmark, Trade_centre, Transportation, Attraction, Garden, Infomation, Feature_park)
