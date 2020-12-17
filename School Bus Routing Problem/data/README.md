@@ -1,0 +1,2 @@
+School Bus Scheduling Problem - Dataset Description
+This dataset contains four files: North toronto christian school route_x.xlxs(x = 1 or 2 or 3) contains all the nodes coordinates and their corresponding nearsest osmids obtaining from data_osmid.ipynb. The first row in the three Excels is the school node information, the other 9 stops are listed below, which are all randomly choosen locations from OpenStreetMap. Because real student information is hard to obtain for their security.
