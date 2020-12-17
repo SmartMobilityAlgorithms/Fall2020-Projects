@@ -16,7 +16,7 @@ This repo contains the project presented in Fall 2020 session.
 - Route Planning For Cyclists :hourglass:
 - Emergency Dispatch and Routing :white_check_mark:
 - School Bus Routing Problem :hourglass:
-- Trip Itinerary Planning :hourglass:
+- Trip Itinerary Planning :white_check_mark:
 - Bio Inspired Optimization Framework for Ride Matching Problem :white_check_mark:
 - Smart Parking Planning :white_check_mark:
 - Optimizing charging scheduling of high use electric vehicles for greenhouse gas reduction :hourglass:
