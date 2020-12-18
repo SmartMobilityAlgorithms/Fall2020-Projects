@@ -12,7 +12,7 @@ This repo contains the project presented in Fall 2020 session.
 
 ---
 ## Project List
-- Multi-criteria Optimal Routing :hourglass:
+- Multi-criteria Optimal Routing :white_check_mark:
 - Route Planning For Cyclists :white_check_mark:
 - Emergency Dispatch and Routing :white_check_mark:
 - School Bus Routing Problem :white_check_mark:
