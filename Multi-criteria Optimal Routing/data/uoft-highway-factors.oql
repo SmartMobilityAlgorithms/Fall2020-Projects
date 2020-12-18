@@ -1,0 +1,27 @@
+/*
+This query looks for all the ways that describe the area within the given bounding box as well as some travel speed factors, such as bus stops, restaurants and roadside parking.
+*/
+
+// university of toronto area
+[bbox:43.653151,-79.404852,43.669384,-79.382536][out:xml];
+// gather results
+(
+  // 1. query all the bus_stops
+  nwr["highway"="bus_stop"];
+  // 2. query all the restaurant
+  nwr["amenity"="restaurant"];
+);
+out center;
+
+(
+  // 3. query all the roads
+  way["highway"~"(motorway|trunk|primary|secondary|tertiary|residential|_link|living_street|service|track)"];
+  
+  // 4. query all possible roadside parking
+  nwr["parking:lane:both"~"(parallel|diagonal|perpendicular|marked)"];
+  nwr["parking:lane:left"~"(parallel|diagonal|perpendicular|marked)"];
+  nwr["parking:lane:right"~"(parallel|diagonal|perpendicular|marked)"];
+);
+(._;>;);
+// print results
+out;
