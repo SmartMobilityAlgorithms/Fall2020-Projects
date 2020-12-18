@@ -7,7 +7,10 @@ The _bio-inspired algorithms_ we chose to solve the Multi-Criteria Optimal Routi
 ## Dataset
 - data/uoft-highway-factors-fixed.osm
 - data/large_data.osm
+<<<<<<< HEAD
 - Code to generate and analyze the dataset: `Midterm Dataset.ipynb`
+=======
+>>>>>>> 9f1e10202f722c25f8fb5a93ba677095c5be4a1b
 
 ## Experiment Implementation
 #### 1. Data preparation (search space)
